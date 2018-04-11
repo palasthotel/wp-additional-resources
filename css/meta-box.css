@@ -1,0 +1,18 @@
+.additional-resource__item{
+	position: relative;
+	margin-bottom: 15px;
+	line-height: 2.2em;
+}
+.additional-resource__item input{
+	width: 100%;
+}
+.additional-resource__delete{
+	position: absolute;
+	color: #a00;
+	top: 0;
+	right: 0;
+}
+.additional-resource__delete:hover{
+	color: #800;
+	cursor: pointer;
+}
